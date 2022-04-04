@@ -30,7 +30,7 @@ body{
         var(--dark60), var(--dark60)
     ),
     url(./images/background.jpg); */
-    background-image: url("back.jpg");
+    background-image: url("/image/back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* Fixed Scale Screen */
